@@ -1,2 +1,2 @@
 # sahilkumardhala.in
-# [📌LIVE](https://sahilkumardhala.github.io/sahilkumardhala.in/)
+# [📌LIVE](https://sahilkumardhala.vercel.app/)
